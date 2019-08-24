@@ -43,4 +43,3 @@ def my_collect(student)
     end
   end
 end
-    
