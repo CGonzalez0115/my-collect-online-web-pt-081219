@@ -18,7 +18,7 @@ end
 def my_collect(language)
   languages = ['ruby', 'javascript', 'python', 'objective-c']
   counter = 0
-  until counter == 3
+  until counter == 4
     languages.each do |language|
       language == language.upcase
       counter += 1
